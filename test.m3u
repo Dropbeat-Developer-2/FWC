@@ -17,7 +17,8 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #EXTINF:-1 tvg-id="0_ovm5icnm" tvg-name="Norwegia vs Senegal" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ovm5icnm/banner_xxxhdpi.webp" group-title="MAXSTREAM FIFA 2026",Norwegia vs Senegal [UPCOMING] 23-06-2026 05:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_ovm5icnm
 
@@ -48,7 +49,8 @@ http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/
 #EXTINF:-1 tvg-id="0_fzuk7zpe" tvg-name="Panama vs Kroasia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_fzuk7zpe/banner_xxxhdpi.webp" group-title="MAXSTREAM FIFA 2026",Panama vs Kroasia [UPCOMING] 24-06-2026 04:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 http://ayamgoreng.diskon.cloud/wc_maxstreamtv/pakai_di_liveevent_aja_kontol.php/.mpd?id=0_fzuk7zpe
 
